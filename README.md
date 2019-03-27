@@ -15,6 +15,6 @@ The user can communicate with an unlimited amount of people. Each individual vie
 ### Screen Shots 
   ![RealTimeChat!](https://github.com/RYin4/vue-chat-/blob/master/sceenshot1.png "RealTimeChat")
     ![RealTimeChat!](https://github.com/RYin4/vue-chat-/blob/master/screenshot2.png "RealTimeChat")
-        ![RealTimeChat!](https://github.com/RYin4/vue-chat-/blob/master/sceenshot3.png "RealTimeChat")
-            ![RealTimeChat!](https://github.com/RYin4/vue-chat-/blob/master/sceenshot4.png "RealTimeChat")
-                ![RealTimeChat!](https://github.com/RYin4/vue-chat-/blob/master/sceenshot5.png "RealTimeChat")
+        ![RealTimeChat!](https://github.com/RYin4/vue-chat-/blob/master/screenshot3.png "RealTimeChat")
+            ![RealTimeChat!](https://github.com/RYin4/vue-chat-/blob/master/screenshot4.png "RealTimeChat")
+                ![RealTimeChat!](https://github.com/RYin4/vue-chat-/blob/master/screenshot5.png "RealTimeChat")
