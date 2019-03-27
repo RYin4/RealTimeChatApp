@@ -1,29 +1,20 @@
-# vue-chat
+# Real Time Chat Application
 
-## Project setup
-```
-npm install
-```
+### Purpose 
+To provide users the ability to chat with one another in real time. 
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### Features 
+- **Vue.js** - Front end developement.   
+- **Firebase** - Database.
+- **Firestore** - Database.
+- **Firebase Cloud Function** - Server side logic.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Implementation
+The user can communicate with an unlimited amount of people. Each individual viewing real time messages.
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Screen Shots 
+  ![RealTimeChat!](https://github.com/RYin4/vue-chat-/blob/master/sceenshot1.png "RealTimeChat")
+    ![RealTimeChat!](https://github.com/RYin4/vue-chat-/blob/master/sceenshot2.png "RealTimeChat")
+        ![RealTimeChat!](https://github.com/RYin4/vue-chat-/blob/master/sceenshot3.png "RealTimeChat")
+            ![RealTimeChat!](https://github.com/RYin4/vue-chat-/blob/master/sceenshot4.png "RealTimeChat")
+                ![RealTimeChat!](https://github.com/RYin4/vue-chat-/blob/master/sceenshot5.png "RealTimeChat")
